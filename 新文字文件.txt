@@ -1,0 +1,30 @@
+	26449959305
+
+何哲昇
+
+
+menc86652@yahoo.com.tw
+
+
+導師ip
+\\172.22.1.137
+
+P215-2203-NB01\SQLEXPRESS
+
+
+
+
+
+hashcode
+
+streaming api
+
+java -cp ".;C:\JDBC/mssql-jdbc-11.2.0.jre8.jar" topic1.topic1
+
+
+實作程式碼
+方法程式碼
+
+控制人數queue
+
+常使用的pority
